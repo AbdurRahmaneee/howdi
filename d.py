@@ -43,6 +43,6 @@ while x == "y":
     x  = input("Press y to roll again  ")
 
 # another comment again... this the second one
-# modification for git test
+# modification making changes to test collsion
 # Now making changes in littlefeature branch
 #  making changes again to see if littlefeature thingy works or not
